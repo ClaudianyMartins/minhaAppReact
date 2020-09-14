@@ -1,0 +1,2 @@
+# minhaAppReact
+Created with CodeSandbox
